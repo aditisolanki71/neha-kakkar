@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Hello from './components/hello'
+import Gallery from './components/gallery'
 
-ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<Gallery />, document.getElementById('root'));

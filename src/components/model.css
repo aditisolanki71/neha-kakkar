@@ -1,0 +1,18 @@
+.backdrop{
+    position:'fixed';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-Color: white;
+    padding: 50px;
+}
+.model
+{
+    background-Color:gray;
+    border-Radius: 5px;
+    max-Width: 500;
+    min-Height: 300;
+    margin: 0 auto;
+    padding: 30px;
+}
